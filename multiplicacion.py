@@ -9,4 +9,4 @@ try:
 
 except ValueError:
     
-    print(f"Por favor, ingresa valores numericos.")
+    print(f"Por favor, ingresa valores numericos y no otra cosa.")
