@@ -7,4 +7,4 @@ if dia == 25 and mes == 12:
     print("La fecha corresponde a Navidad")
 else:
     print("La fecha no corresponde a Navidad")
-    
+
